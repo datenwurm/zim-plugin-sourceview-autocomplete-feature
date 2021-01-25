@@ -1,6 +1,6 @@
 # Zim Sourceview (Autocomplete Language Feature)
 
-This implementation adds three new features to Zim's SourceView plugin:
+In addition to the already existing "SourceView plugin" by Janoušek and Jaap Karssenberg this plugin adds three new features:
 
 * the combobox has now a autocomplete feature which allows to select entries by typing part of their name. The previous behaviour (grouping by first letter) is still present.
 * the ok button is now the default button. When the combobox has focus (default) the ok-button can be activated by pressing enter.
