@@ -16,5 +16,5 @@ This implementation adds three new features to Zim's SourceView plugin:
 
 # Setup
 
-1. Put the `dash.py` into the plugins folder `~/.local/share/zim/plugins/` in Linux.
+1. Put the `sourceview.py` into the plugins folder `~/.local/share/zim/plugins/` in Linux.
 2. Enable the plugin in Zim via `Edit > Preferences > Plugins` and check mark the `Source View` plugin.
